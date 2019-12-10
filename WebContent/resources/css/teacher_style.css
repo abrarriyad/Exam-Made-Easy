@@ -1,0 +1,13 @@
+.teacher-home{
+	background-image: url(img/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+   	height:579px;
+}
+
+.student-home{
+	background-image: url("WebContent/resources/css/img/chalkboard.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+   	height:579px;
+}
